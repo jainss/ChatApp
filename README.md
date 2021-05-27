@@ -1,4 +1,4 @@
-# chatapp
+## This is simple flutter UI like a whatapp chatting screen.
 
 A new Flutter project.
 
